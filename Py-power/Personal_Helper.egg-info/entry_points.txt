@@ -1,0 +1,2 @@
+[console_scripts]
+greeting = Personal_Helper.main:greeting
